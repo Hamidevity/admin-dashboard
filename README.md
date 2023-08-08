@@ -5,7 +5,7 @@
 ### Install packages
 
 ```shell
-npm i
+npm i --save
 ```
 
 ### Setup .env file
